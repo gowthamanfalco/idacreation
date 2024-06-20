@@ -1,1 +1,1 @@
-# idacreation
+First we need to downloade the raw file and extract it in one folder and open vscode and open this folder . In this project Main.js is the main file that need to import in index.js after that open new terminal and write a command npm start the project will run
