@@ -1,0 +1,33 @@
+.ing{
+    height:300px;
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.jkl{
+    background-image: linear-gradient(to right,violet,white);
+}
+.ope{
+    color:white;
+    margin-left: -800px;
+    margin-top: 100px;
+}
+
+.asd{
+    border-radius:30px;
+    margin-left: 80px;
+    color:white;
+    background-color: black;
+}
+.trm{
+    height: 400px;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: -400px;
+    background: transparent;
+    border-radius: 20px;
+}
+.hed{
+    color: rebeccapurple;
+}

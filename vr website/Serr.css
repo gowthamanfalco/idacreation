@@ -1,0 +1,114 @@
+.ops{
+    margin-top: 20px;
+}
+.pas{
+    background-image: linear-gradient(to right,violet,white);
+    height: 1800px;
+    overflow: hidden;
+}
+
+.ihk1{
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 75px;
+}
+.ti1{
+    margin-left: 320px;
+    margin-top: -70px;
+}
+.ihk2{
+    height: 100px;
+    width: 100px;
+    margin-left: 600px;
+    margin-top: -850px;
+}
+.ti2{
+    margin-left: 720px;
+    margin-top: -450px;
+}
+.ihk3{
+    height: 100px;
+    width: 100px;
+    margin-left:600px ;
+    margin-top: 80px;
+   
+}
+.ihk4{
+    height: 100px;
+    width: 100px;
+    margin-left:600px ;
+    margin-top: 70px;
+}
+.ihk5{
+    height: 100px;
+    width: 100px;
+    margin-left:600px ;
+    margin-top: 60px;
+}
+
+.ti3{
+    margin-left: 730px;
+   margin-top: -65px;
+}
+.ti4{
+    margin-left: 730px;
+    margin-top: -65px;
+}
+.ihk6{
+    height: 100px;
+    width: 100px;
+    margin-left:1050px ;
+    margin-top: -850px;
+}
+.ti5{
+    margin-left: 1180px;
+    margin-top: -450px;
+}
+.ihk7{
+    height: 100px;
+    width: 100px;
+    margin-left:1050px ;
+    margin-top: 70px;
+}
+
+.ti6{
+    margin-left: 1180px;
+    margin-top: -70px;
+}
+.container{
+    width: 70%;
+    height: 450px;
+   margin-left: 550px;
+    justify-content: center;
+    gap:10px;
+    /* margin-top: 100px; */
+
+}
+.container img{
+    width: 10%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: all ease-in-out 0.5s;
+
+}
+.container img:hover{
+    width: 25%;
+}
+
+.ips{
+    margin-left: 100px;
+}
+.btd{
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+.kkl{
+    margin-top: 100px;
+}

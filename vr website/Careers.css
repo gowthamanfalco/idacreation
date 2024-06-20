@@ -1,0 +1,28 @@
+.we{
+    height: 200px;
+    width: 500px;
+     
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 500px;
+   background-color: white;
+   
+    
+}
+
+.hk{
+    height: 1530px;
+    /* background-image: linear-gradient(to right,violet,white); */
+   
+    
+}
+.pq{
+    background-image: url("https://assets-news.housing.com/news/wp-content/uploads/2020/03/09183406/Top-10-IT-companies-in-Bengaluru-FB-1200x700-compressed.jpg");
+    height: 110px;
+    
+}
+.ap{
+    color: white;
+    
+}
